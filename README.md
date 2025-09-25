@@ -1,5 +1,5 @@
 # PFTM
-Projection Friendly Tree Mapping - improvement on the quantum fermionic boundary operatory
+Projection Friendly Tree Mapping - improvement on the quantum fermionic boundary operator circuit
 
 # Projection-Friendly Tree Mapping (PFTM)
 
