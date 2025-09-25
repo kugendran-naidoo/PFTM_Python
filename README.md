@@ -38,3 +38,10 @@ Many quantum algorithms in **Topological Data Analysis (TDA)** and **quantum che
 
 ## Repository Structure
 
+├── code/
+│ ├── pftm_vs_jw_depth.py # Python driver: builds JW/PFTM depth models
+│ ├── requirements.txt # Dependencies (numpy, pandas, matplotlib, optional pytket)
+│ └── examples/ # Example outputs, plots, circuit screenshots
+├── README.md # This file
+└── LICENSE
+
