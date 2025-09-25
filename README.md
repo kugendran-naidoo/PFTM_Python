@@ -1,4 +1,4 @@
-# PFTM
+# PFTM - Python
 Projection Friendly Tree Mapping - improvement on the quantum fermionic boundary operator circuit. Quantum paper for PhD in progress.
 
 # Projection-Friendly Tree Mapping (PFTM)
