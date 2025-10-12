@@ -10,6 +10,8 @@ Projection Friendly Tree Mapping - improvement on the quantum fermionic boundary
 ## 📈 Metrics
 ![Activity (last 4 weeks)](https://raw.githubusercontent.com/kugendran-naidoo/PFTM_Python/main/metrics/activity_4w.png)
 
+> Auto-updated daily at 14:00 UTC via GitHub Actions.
+
 # Projection-Friendly Tree Mapping (PFTM)
 
 **Short-depth fermionic mappings for quantum topological algorithms.**
